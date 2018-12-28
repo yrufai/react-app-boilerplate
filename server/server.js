@@ -9,5 +9,5 @@ app.use("*", (req, res)=>{
 });
 
 app.listen(port, ()=>{
-    console.log("server is working ")
+    console.log("server is up and doing ")
 })
