@@ -1,7 +1,7 @@
 {
-  "name": "reactapp-boillerplate",
+  "name": "react-markdown-previewer",
   "version": "1.0.0",
-  "description": "simple react app",
+  "description": "markdown preview of text entered in an input area",
   "scripts": {
     "serve": "webpack-dev-server --mode=development --open  ",
     "dev": "webpack --mode=development --watch",
